@@ -66,7 +66,7 @@ export function ActionButton({
 export function StatusBadge({ status }: { status: string }) {
   return (
     <span
-      className={`inline-flex w-fit items-center justify-center self-start rounded-full border px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] ${statusStyles[status] ?? "border-border bg-surfaceMuted text-inkSoft"
+      className={`inline-flex w-fit items-center justify-center self-start rounded-full border px-3 py-1 my-auto text-xs font-semibold uppercase tracking-[0.18em] ${statusStyles[status] ?? "border-border bg-surfaceMuted text-inkSoft"
         }`}
     >
       {status.toLowerCase()}
