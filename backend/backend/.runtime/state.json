@@ -1,0 +1,3529 @@
+{
+  "batches": [
+    {
+      "id": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "clientId": "0060deaa-dc78-4df0-bebd-8d751dea8b9c",
+      "name": "First trial batch",
+      "totalJobs": 100,
+      "status": "COMPLETED",
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "completedAt": "2026-05-10T17:43:22.611Z"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "a0f752b2-6989-47c4-b314-096543804ca6",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:13.199Z"
+    },
+    {
+      "id": "46ca39c7-3cb6-4e07-8d7b-9ff6e545a71d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:56.281Z"
+    },
+    {
+      "id": "5dcd117b-50d0-45d4-93ad-e34b42a54d93",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:14.229Z"
+    },
+    {
+      "id": "8d8cb425-a996-4e70-8527-d9bf41c110cb",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:14.514Z"
+    },
+    {
+      "id": "b3c8d9fe-4f92-401a-b8b8-e12b8ab6eda1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:14.537Z"
+    },
+    {
+      "id": "0347ee8d-70af-414e-a291-c63a3f85929d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:15.488Z"
+    },
+    {
+      "id": "7e0f2510-0fd9-458f-bd19-74bb1365fc03",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 3,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:20.650Z"
+    },
+    {
+      "id": "b3487e43-e79f-41fd-87fc-1e041d5e5504",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:15.337Z"
+    },
+    {
+      "id": "f219edad-b758-489f-9b6f-0f67a17e3180",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:16.744Z"
+    },
+    {
+      "id": "6effa33a-63fa-40a0-9bc3-0ba21a263c05",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:56.551Z"
+    },
+    {
+      "id": "60fb2402-8762-473d-ac1b-18f0b9b38ee1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 2,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:12.657Z"
+    },
+    {
+      "id": "1f3af986-3b18-4ccd-88c1-8c5dc46e3515",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:17.890Z"
+    },
+    {
+      "id": "beb95a6f-2f39-4bc3-9796-3886990b24e9",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:57.837Z"
+    },
+    {
+      "id": "db82fef7-986c-4bcb-8870-ec5bed4ddc12",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:57.906Z"
+    },
+    {
+      "id": "3e7360d3-9f4c-4b99-8967-324004011ad1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:59.308Z"
+    },
+    {
+      "id": "519bb136-7780-4b6a-9708-a998e72534ac",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:20.499Z"
+    },
+    {
+      "id": "c7a0ba66-82a4-44fe-95f5-1effe5669198",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:59.050Z"
+    },
+    {
+      "id": "83bb4111-5aad-416e-91f8-0f7c028b317d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:20.909Z"
+    },
+    {
+      "id": "fe198501-07d0-49ee-a528-f0ae3e7b915b",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:21.807Z"
+    },
+    {
+      "id": "def2d949-aa04-4948-a041-af97e8803f89",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:22.826Z"
+    },
+    {
+      "id": "3d283843-3aa5-476d-9b5b-23537b91c9d3",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:22.459Z"
+    },
+    {
+      "id": "be66e348-f980-4a58-b373-e4c158362588",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 3,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:21.229Z"
+    },
+    {
+      "id": "72bb2066-9533-4fd5-8b62-82d7df4d0060",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:23.055Z"
+    },
+    {
+      "id": "a2fc7177-46b9-4460-b3a4-0f254e396c7f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:00.816Z"
+    },
+    {
+      "id": "3da82acf-6be9-44e7-a04e-47c031596e8d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:01.430Z"
+    },
+    {
+      "id": "492632b8-e47d-4834-a058-0ca2810fbd55",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:25.387Z"
+    },
+    {
+      "id": "32107c54-ea47-4fb5-9ab0-bb18f96b1e3d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:01.667Z"
+    },
+    {
+      "id": "84050361-f9a3-428c-8c12-469fd7a4a0fa",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:01.645Z"
+    },
+    {
+      "id": "dac5701f-1bd0-4e70-a1da-978c29093548",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:26.724Z"
+    },
+    {
+      "id": "af8a1c16-0166-4b11-b60a-7606065ed2a0",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:26.018Z"
+    },
+    {
+      "id": "7175c82d-d2c3-495b-ab6d-9eb52b15a83f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:02.679Z"
+    },
+    {
+      "id": "bfe098a8-7203-4d35-baa4-78defd638390",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:03.114Z"
+    },
+    {
+      "id": "339370c3-a4cb-4224-8275-042659900ffb",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:26.973Z"
+    },
+    {
+      "id": "86e54df4-cfe0-4d80-a354-75ee9c5d674d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:27.311Z"
+    },
+    {
+      "id": "b17ba3d0-35a0-4a51-a9d4-32b43882ff3a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:27.779Z"
+    },
+    {
+      "id": "ada5846c-aadd-43f3-8d74-9d7a870a9c63",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:28.967Z"
+    },
+    {
+      "id": "37b9ace3-9cc5-45d7-b7e8-73e5dcba1f81",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:28.187Z"
+    },
+    {
+      "id": "bf56ebc9-f697-4c15-ba6f-2266deecf35b",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:29.048Z"
+    },
+    {
+      "id": "7d578177-c9b6-486c-bd73-86ded9d7e3b2",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:03.016Z"
+    },
+    {
+      "id": "792576e3-a847-4a2b-8ae5-196e871dd4e4",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:30.494Z"
+    },
+    {
+      "id": "9cb1a888-41c0-41c8-ad27-2708f15c9a56",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:30.903Z"
+    },
+    {
+      "id": "99904c4b-7609-49ad-9804-531fd974dbfe",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:03.833Z"
+    },
+    {
+      "id": "168c19b7-f29f-46c7-85b6-d8ce81798496",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:32.065Z"
+    },
+    {
+      "id": "b1122d35-a1ba-4977-a9af-d5783dd3dec5",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:32.488Z"
+    },
+    {
+      "id": "f195ec1c-30b4-4453-b94b-d3d5cb18d3a9",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:33.026Z"
+    },
+    {
+      "id": "0dfee5d9-8ad7-4f66-b902-141f9ea6f7d7",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:04.303Z"
+    },
+    {
+      "id": "b3e9b829-e9ae-4d2e-8b24-b8d78ff39941",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:05.074Z"
+    },
+    {
+      "id": "13c02a77-b903-478b-b9d1-50f5d20764eb",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:33.993Z"
+    },
+    {
+      "id": "754ceaa8-8b3a-4d2b-b62a-4cc914f42ddf",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:34.767Z"
+    },
+    {
+      "id": "cc61f19d-12ab-4a73-8ecd-8553ef5beb35",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:34.721Z"
+    },
+    {
+      "id": "8b0f6928-7c8e-46f3-998e-66e08be9e715",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:05.126Z"
+    },
+    {
+      "id": "ef6b6459-2f59-4251-a9c6-7d5b8223cffb",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:35.943Z"
+    },
+    {
+      "id": "a5c67754-4722-4f08-9a05-25378e1293ec",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:36.611Z"
+    },
+    {
+      "id": "4f14d912-4357-40c6-93ea-ddf97ab7abc1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:05.595Z"
+    },
+    {
+      "id": "f2a1d5d6-5803-4e86-bf7a-a9fff9221528",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:06.079Z"
+    },
+    {
+      "id": "d9dbeee7-4d68-4113-8813-b9cffb49b8e8",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:38.414Z"
+    },
+    {
+      "id": "dd364801-275b-4a0c-902d-93630fbf9f58",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:06.471Z"
+    },
+    {
+      "id": "75ee6834-28c2-49f3-8824-c6da9c8d46bf",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:38.076Z"
+    },
+    {
+      "id": "6afd153f-2e69-4175-8671-f03c4a8895d4",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:38.305Z"
+    },
+    {
+      "id": "e1423e90-3ec6-4694-b192-083a840e1984",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:39.702Z"
+    },
+    {
+      "id": "ed02690a-98ce-44c2-af71-51a6292c542a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:39.182Z"
+    },
+    {
+      "id": "ee238c4c-38cd-4a9a-9ca2-b76b5ff50eb6",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:39.415Z"
+    },
+    {
+      "id": "3affad78-a17f-412f-8f92-fbdbb05bd3a3",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:40.535Z"
+    },
+    {
+      "id": "3bfd1c2f-4d45-4768-9c4c-02c52795a36f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:40.522Z"
+    },
+    {
+      "id": "4f4dffea-d254-4238-8059-04d23ec2d473",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:41.700Z"
+    },
+    {
+      "id": "1a1a3f24-9b5c-4768-b09f-3ba40fc3cf2c",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:07.120Z"
+    },
+    {
+      "id": "27c75041-59ca-4c20-b69e-9ee39033edde",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:42.089Z"
+    },
+    {
+      "id": "d0caa565-f9ee-4f94-a363-299f2868661f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:42.434Z"
+    },
+    {
+      "id": "50a3737f-8618-49ba-80f3-eddb0fe458a2",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:43.460Z"
+    },
+    {
+      "id": "18ceb98a-039d-4e6b-966c-5df7d0f62390",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:42.711Z"
+    },
+    {
+      "id": "cbcf703f-a3b4-47e5-ae2a-05c564206d51",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:43.484Z"
+    },
+    {
+      "id": "89e17651-01cf-4d0c-9232-9579b851cd00",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:44.579Z"
+    },
+    {
+      "id": "31ff9eee-b30e-4c90-b101-b949a48b0736",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:44.748Z"
+    },
+    {
+      "id": "9ea29948-1c6d-465a-ac5f-c13bbc6821f6",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:44.828Z"
+    },
+    {
+      "id": "df4f770d-3109-44fc-b385-8e3652933201",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:45.049Z"
+    },
+    {
+      "id": "0dbef30c-ae21-4996-87fd-fdbc28fc65b8",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "FAILED",
+      "retryCount": 4,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:22.610Z"
+    },
+    {
+      "id": "b582156a-9911-4974-bf45-22a01d81b79e",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:45.476Z"
+    },
+    {
+      "id": "a741102d-50a8-468a-ab76-b5a57c77ba42",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 2,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:13.550Z"
+    },
+    {
+      "id": "e6f20392-ec15-4ce2-99ef-679f123cfdbd",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:46.717Z"
+    },
+    {
+      "id": "df30899d-8a8b-421c-b254-b6bd2767212b",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:07.457Z"
+    },
+    {
+      "id": "c3d4ef9c-b86c-446e-b1de-48e46e53b60a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:46.882Z"
+    },
+    {
+      "id": "35d562ad-d8f2-4483-ade0-f09364f99464",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 2,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:14.702Z"
+    },
+    {
+      "id": "3233aca1-bed8-477f-a086-6faf823b8d56",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:47.973Z"
+    },
+    {
+      "id": "c8afb6f2-6c35-4a1e-a8c8-49ed98b0360c",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:48.838Z"
+    },
+    {
+      "id": "326845e0-06f2-47fa-910d-d2cb5974e688",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:09.339Z"
+    },
+    {
+      "id": "bf3d7fca-12d8-4129-a608-6e62ebf45143",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:49.338Z"
+    },
+    {
+      "id": "d87c2106-feac-4b1e-aff7-1c2f7bb30492",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:50.187Z"
+    },
+    {
+      "id": "fd2ba948-fca0-4001-8d29-6b017bd84a05",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:50.299Z"
+    },
+    {
+      "id": "1ea763ef-2559-4153-a611-3e9055e26031",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:10.468Z"
+    },
+    {
+      "id": "f9d23956-6c4a-4b60-bec7-58c5b8dec323",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 2,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:14.299Z"
+    },
+    {
+      "id": "beb1b550-fded-49d6-a0cb-332043f1be73",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 2,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:15.545Z"
+    },
+    {
+      "id": "15bd849e-a78e-466a-ac14-1b477d7def28",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:52.111Z"
+    },
+    {
+      "id": "9dd09055-1aa0-4b15-88b1-6ed663b07903",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:52.733Z"
+    },
+    {
+      "id": "9eabf51c-970d-406b-82a9-b452bd9c8c0a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:10.613Z"
+    },
+    {
+      "id": "4e90d4a1-eba7-44ba-a408-af0d4dc426bb",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:53.252Z"
+    },
+    {
+      "id": "054108dd-5e1b-45a3-8ed5-ac9d8f3ba8a1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:53.873Z"
+    },
+    {
+      "id": "1caa7fba-ac5a-47bc-82ba-6645ca621390",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:53.852Z"
+    },
+    {
+      "id": "d1d21338-4a78-4263-a513-87b645c7214a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:54.772Z"
+    },
+    {
+      "id": "a7303784-efcf-4b1c-97e3-b7803880e64a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 1,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:43:11.145Z"
+    },
+    {
+      "id": "6a84932e-9be0-4212-b078-6bfe7714b049",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "status": "SUCCESS",
+      "retryCount": 0,
+      "maxRetries": 3,
+      "createdAt": "2026-05-10T17:42:12.037Z",
+      "updatedAt": "2026-05-10T17:42:55.188Z"
+    }
+  ],
+  "logs": [
+    {
+      "id": "c992764d-12f5-4a75-b6ce-abf4ef5ac341",
+      "jobId": "0dbef30c-ae21-4996-87fd-fdbc28fc65b8",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 0dbef30c failed after max retries",
+      "eventType": "FAILURE",
+      "level": "ERROR",
+      "createdAt": "2026-05-10T17:43:22.610Z"
+    },
+    {
+      "id": "53ada89e-f00d-47d7-ab4e-20c0f739628a",
+      "jobId": "0dbef30c-ae21-4996-87fd-fdbc28fc65b8",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 0dbef30c is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:21.753Z"
+    },
+    {
+      "id": "36a1c978-5b72-49c4-b9a9-7e53d6dd50ca",
+      "jobId": "be66e348-f980-4a58-b373-e4c158362588",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job be66e348 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:21.229Z"
+    },
+    {
+      "id": "3e6f1db3-b060-4c16-b65b-7baa3ac7ddbc",
+      "jobId": "be66e348-f980-4a58-b373-e4c158362588",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job be66e348 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:20.657Z"
+    },
+    {
+      "id": "0e7e4ea3-e324-4cf1-a68a-5254b4f0c3d7",
+      "jobId": "7e0f2510-0fd9-458f-bd19-74bb1365fc03",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7e0f2510 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:20.650Z"
+    },
+    {
+      "id": "967a3816-5522-4b02-b827-76f330ecc55c",
+      "jobId": "7e0f2510-0fd9-458f-bd19-74bb1365fc03",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7e0f2510 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:19.589Z"
+    },
+    {
+      "id": "10d78252-3d78-42f7-865f-a19274869b6d",
+      "jobId": "beb1b550-fded-49d6-a0cb-332043f1be73",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job beb1b550 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:15.545Z"
+    },
+    {
+      "id": "197dc6ef-47c6-469c-b4fb-176f6ab2c6b9",
+      "jobId": "35d562ad-d8f2-4483-ade0-f09364f99464",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 35d562ad processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:14.702Z"
+    },
+    {
+      "id": "a523efa1-b1dd-4892-83a0-e50b6d8c4d34",
+      "jobId": "beb1b550-fded-49d6-a0cb-332043f1be73",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job beb1b550 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:14.304Z"
+    },
+    {
+      "id": "28155444-defa-4a7b-9e6c-61e630618f0a",
+      "jobId": "f9d23956-6c4a-4b60-bec7-58c5b8dec323",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job f9d23956 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:14.300Z"
+    },
+    {
+      "id": "a753a61f-f906-444f-81d8-08ea3d614185",
+      "jobId": "f9d23956-6c4a-4b60-bec7-58c5b8dec323",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job f9d23956 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:13.563Z"
+    },
+    {
+      "id": "ee6500d4-816d-44f6-a6a0-d627883e7329",
+      "jobId": "0dbef30c-ae21-4996-87fd-fdbc28fc65b8",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 0dbef30c failed and was rescheduled for retry 3",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:43:13.560Z"
+    },
+    {
+      "id": "031f5917-d0a2-41a8-8699-cb90638a0f66",
+      "jobId": "35d562ad-d8f2-4483-ade0-f09364f99464",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 35d562ad is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:13.555Z"
+    },
+    {
+      "id": "38c1a81b-52d2-4cd1-b5c2-62e37d905332",
+      "jobId": "a741102d-50a8-468a-ab76-b5a57c77ba42",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a741102d processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:13.550Z"
+    },
+    {
+      "id": "46f05c5d-605f-45f1-bd90-88dedaa51812",
+      "jobId": "a741102d-50a8-468a-ab76-b5a57c77ba42",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a741102d is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:12.661Z"
+    },
+    {
+      "id": "65ec7cf8-70ac-430a-9583-77f49dc69ffe",
+      "jobId": "60fb2402-8762-473d-ac1b-18f0b9b38ee1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 60fb2402 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:12.657Z"
+    },
+    {
+      "id": "e82f674a-6f37-49c2-bdc4-2c2b02e3030e",
+      "jobId": "0dbef30c-ae21-4996-87fd-fdbc28fc65b8",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 0dbef30c is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:12.105Z"
+    },
+    {
+      "id": "adcd5a23-bc54-4460-9ba0-334ef249661f",
+      "jobId": "be66e348-f980-4a58-b373-e4c158362588",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job be66e348 failed and was rescheduled for retry 3",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:43:12.102Z"
+    },
+    {
+      "id": "f8bb1262-0c91-4a35-b97a-5af6a0b1c2c1",
+      "jobId": "be66e348-f980-4a58-b373-e4c158362588",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job be66e348 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:11.515Z"
+    },
+    {
+      "id": "872a8d3a-9b9b-4137-b8e1-692327ec1830",
+      "jobId": "7e0f2510-0fd9-458f-bd19-74bb1365fc03",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7e0f2510 failed and was rescheduled for retry 3",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:43:11.509Z"
+    },
+    {
+      "id": "41adbb6a-afa1-4145-86fa-455b68d1f6ff",
+      "jobId": "60fb2402-8762-473d-ac1b-18f0b9b38ee1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 60fb2402 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:11.150Z"
+    },
+    {
+      "id": "8cc8761d-4439-446c-9b3a-b1043d764dc1",
+      "jobId": "a7303784-efcf-4b1c-97e3-b7803880e64a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a7303784 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:11.145Z"
+    },
+    {
+      "id": "65e77afa-76f3-43e9-9da6-e0cf828e5458",
+      "jobId": "7e0f2510-0fd9-458f-bd19-74bb1365fc03",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7e0f2510 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:10.619Z"
+    },
+    {
+      "id": "29a2dd90-d0db-453f-9742-d1a9ee1eda97",
+      "jobId": "9eabf51c-970d-406b-82a9-b452bd9c8c0a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 9eabf51c processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:10.614Z"
+    },
+    {
+      "id": "6ad76d53-8c7e-489e-99d1-28db1895c6c7",
+      "jobId": "a7303784-efcf-4b1c-97e3-b7803880e64a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a7303784 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:10.472Z"
+    },
+    {
+      "id": "21280c24-edbb-477f-9a3a-2386d20ffb22",
+      "jobId": "1ea763ef-2559-4153-a611-3e9055e26031",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 1ea763ef processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:10.468Z"
+    },
+    {
+      "id": "134d0142-c761-4dd6-8ddc-561cfbb3ef79",
+      "jobId": "9eabf51c-970d-406b-82a9-b452bd9c8c0a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 9eabf51c is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:09.715Z"
+    },
+    {
+      "id": "67b151d7-d3cd-4db9-bcea-79404cdcfa53",
+      "jobId": "beb1b550-fded-49d6-a0cb-332043f1be73",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job beb1b550 failed and was rescheduled for retry 2",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:43:09.712Z"
+    },
+    {
+      "id": "c85ec3fb-f8a6-40f0-8599-08e9b4bf602e",
+      "jobId": "1ea763ef-2559-4153-a611-3e9055e26031",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 1ea763ef is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:09.444Z"
+    },
+    {
+      "id": "8bb75b92-8be2-4ce8-99ae-ae39bd4c732a",
+      "jobId": "f9d23956-6c4a-4b60-bec7-58c5b8dec323",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job f9d23956 failed and was rescheduled for retry 2",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:43:09.439Z"
+    },
+    {
+      "id": "3eac5a63-f016-4a12-8622-67a3d01f67ce",
+      "jobId": "beb1b550-fded-49d6-a0cb-332043f1be73",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job beb1b550 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:09.345Z"
+    },
+    {
+      "id": "0d7925a2-6ce3-4b87-b1f5-323ec9fa8267",
+      "jobId": "326845e0-06f2-47fa-910d-d2cb5974e688",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 326845e0 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:09.339Z"
+    },
+    {
+      "id": "29c0f505-f7cb-4234-afe6-6764f49acfc3",
+      "jobId": "f9d23956-6c4a-4b60-bec7-58c5b8dec323",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job f9d23956 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:08.427Z"
+    },
+    {
+      "id": "ec23c0db-b4e6-406b-b938-3cf75b35177c",
+      "jobId": "35d562ad-d8f2-4483-ade0-f09364f99464",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 35d562ad failed and was rescheduled for retry 2",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:43:08.419Z"
+    },
+    {
+      "id": "0ca661f9-2dfc-4435-8aeb-2cacc5883d9a",
+      "jobId": "326845e0-06f2-47fa-910d-d2cb5974e688",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 326845e0 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:08.100Z"
+    },
+    {
+      "id": "0e70012e-4c0f-41a5-a6c1-9d83f9503058",
+      "jobId": "a741102d-50a8-468a-ab76-b5a57c77ba42",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a741102d failed and was rescheduled for retry 2",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:43:08.095Z"
+    },
+    {
+      "id": "6858cff6-d59d-47a7-adc1-5ccbf7aaf53b",
+      "jobId": "35d562ad-d8f2-4483-ade0-f09364f99464",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 35d562ad is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:07.463Z"
+    },
+    {
+      "id": "a85c1c18-0e9e-4314-a391-c749ac363bf6",
+      "jobId": "df30899d-8a8b-421c-b254-b6bd2767212b",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job df30899d processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:07.457Z"
+    },
+    {
+      "id": "5ab15df8-e1bb-4a64-af70-b7133ed1ac47",
+      "jobId": "df30899d-8a8b-421c-b254-b6bd2767212b",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job df30899d is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:07.123Z"
+    },
+    {
+      "id": "513dcf7a-5150-4cd1-816e-1c78e8d3bf25",
+      "jobId": "1a1a3f24-9b5c-4768-b09f-3ba40fc3cf2c",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 1a1a3f24 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:07.120Z"
+    },
+    {
+      "id": "ce77a01f-f752-45e5-baad-b03e7790e7ac",
+      "jobId": "a741102d-50a8-468a-ab76-b5a57c77ba42",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a741102d is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:06.894Z"
+    },
+    {
+      "id": "3d8df6a3-d0c7-4bda-9356-dfba1cc90e4d",
+      "jobId": "0dbef30c-ae21-4996-87fd-fdbc28fc65b8",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 0dbef30c failed and was rescheduled for retry 2",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:43:06.889Z"
+    },
+    {
+      "id": "54e8c3aa-a9cc-4a02-9cfd-f5f3fce8a789",
+      "jobId": "0dbef30c-ae21-4996-87fd-fdbc28fc65b8",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 0dbef30c is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:06.477Z"
+    },
+    {
+      "id": "022708cb-abb9-4075-967b-037957936ab0",
+      "jobId": "dd364801-275b-4a0c-902d-93630fbf9f58",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job dd364801 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:06.471Z"
+    },
+    {
+      "id": "3afc78a3-4adb-499d-8537-57320f4de57b",
+      "jobId": "1a1a3f24-9b5c-4768-b09f-3ba40fc3cf2c",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 1a1a3f24 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:06.085Z"
+    },
+    {
+      "id": "95eb424f-9ed6-40ad-ac40-28f7f9fee5fe",
+      "jobId": "f2a1d5d6-5803-4e86-bf7a-a9fff9221528",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job f2a1d5d6 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:06.079Z"
+    },
+    {
+      "id": "5b544c1c-3748-4285-bf05-415a71190823",
+      "jobId": "dd364801-275b-4a0c-902d-93630fbf9f58",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job dd364801 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:05.599Z"
+    },
+    {
+      "id": "6a980f49-895f-4459-8081-b29e44c5893e",
+      "jobId": "4f14d912-4357-40c6-93ea-ddf97ab7abc1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 4f14d912 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:05.595Z"
+    },
+    {
+      "id": "2acdc4dc-6bcc-4eb9-a049-e7cc1178d891",
+      "jobId": "4f14d912-4357-40c6-93ea-ddf97ab7abc1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 4f14d912 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:05.131Z"
+    },
+    {
+      "id": "b7447882-8345-43bf-b7cb-6ec9ae81f84d",
+      "jobId": "8b0f6928-7c8e-46f3-998e-66e08be9e715",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 8b0f6928 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:05.126Z"
+    },
+    {
+      "id": "b7b83819-d6e8-4633-a56f-7ec4593c4ff5",
+      "jobId": "f2a1d5d6-5803-4e86-bf7a-a9fff9221528",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job f2a1d5d6 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:05.079Z"
+    },
+    {
+      "id": "cd1241a6-3fdb-4c47-90b4-543b148ecb2d",
+      "jobId": "b3e9b829-e9ae-4d2e-8b24-b8d78ff39941",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job b3e9b829 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:05.074Z"
+    },
+    {
+      "id": "cb1027cd-89d7-49c2-88c9-e10ca47d7bfb",
+      "jobId": "8b0f6928-7c8e-46f3-998e-66e08be9e715",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 8b0f6928 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:04.308Z"
+    },
+    {
+      "id": "04d31ac9-0d25-41e1-9739-930c1943454d",
+      "jobId": "0dfee5d9-8ad7-4f66-b902-141f9ea6f7d7",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 0dfee5d9 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:04.303Z"
+    },
+    {
+      "id": "4406a2db-8006-420e-9cfb-e1cfd533f9a7",
+      "jobId": "b3e9b829-e9ae-4d2e-8b24-b8d78ff39941",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job b3e9b829 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:03.835Z"
+    },
+    {
+      "id": "54464c9d-f5a5-4e49-b27a-6ad393eae091",
+      "jobId": "99904c4b-7609-49ad-9804-531fd974dbfe",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 99904c4b processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:03.833Z"
+    },
+    {
+      "id": "dcdf33aa-711d-4da3-9a6d-f7d2509b4abd",
+      "jobId": "0dfee5d9-8ad7-4f66-b902-141f9ea6f7d7",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 0dfee5d9 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:03.118Z"
+    },
+    {
+      "id": "f5e51a52-e9ea-4098-98c4-88193f740f5f",
+      "jobId": "bfe098a8-7203-4d35-baa4-78defd638390",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job bfe098a8 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:03.114Z"
+    },
+    {
+      "id": "c8f1ed1d-2475-45f0-8192-707a45cf1c19",
+      "jobId": "99904c4b-7609-49ad-9804-531fd974dbfe",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 99904c4b is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:03.020Z"
+    },
+    {
+      "id": "4d70e713-ce57-4afb-8d5b-5852a2c56a86",
+      "jobId": "7d578177-c9b6-486c-bd73-86ded9d7e3b2",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7d578177 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:03.016Z"
+    },
+    {
+      "id": "c33873c4-fd5b-4e67-bc88-1420c07dba3c",
+      "jobId": "7d578177-c9b6-486c-bd73-86ded9d7e3b2",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7d578177 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:02.684Z"
+    },
+    {
+      "id": "18f347ad-3a57-4f61-9d60-be3becff28bf",
+      "jobId": "7175c82d-d2c3-495b-ab6d-9eb52b15a83f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7175c82d processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:02.679Z"
+    },
+    {
+      "id": "303289fa-c7ef-4854-9f83-9b041b21be64",
+      "jobId": "bfe098a8-7203-4d35-baa4-78defd638390",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job bfe098a8 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:01.670Z"
+    },
+    {
+      "id": "c5382f6c-ea73-49e6-86ef-5e65b31f3e15",
+      "jobId": "32107c54-ea47-4fb5-9ab0-bb18f96b1e3d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 32107c54 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:01.667Z"
+    },
+    {
+      "id": "0da959f7-3146-4b5f-8973-323b7192f544",
+      "jobId": "7175c82d-d2c3-495b-ab6d-9eb52b15a83f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7175c82d is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:01.649Z"
+    },
+    {
+      "id": "4553e2fb-e4ca-4c53-94a2-4901ef4cb1e5",
+      "jobId": "84050361-f9a3-428c-8c12-469fd7a4a0fa",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 84050361 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:01.645Z"
+    },
+    {
+      "id": "90428d0b-fa58-4243-a30b-7ab774398cf9",
+      "jobId": "84050361-f9a3-428c-8c12-469fd7a4a0fa",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 84050361 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:01.434Z"
+    },
+    {
+      "id": "6de8315e-98dc-469f-a7b4-cfafbd81a254",
+      "jobId": "3da82acf-6be9-44e7-a04e-47c031596e8d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3da82acf processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:01.430Z"
+    },
+    {
+      "id": "15361051-b92e-4f66-911c-bc668948da2c",
+      "jobId": "32107c54-ea47-4fb5-9ab0-bb18f96b1e3d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 32107c54 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:00.822Z"
+    },
+    {
+      "id": "05c9d0ab-2062-44d8-ab46-525c65e08497",
+      "jobId": "a2fc7177-46b9-4460-b3a4-0f254e396c7f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a2fc7177 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:00.816Z"
+    },
+    {
+      "id": "c51e6f50-e784-488e-9f7a-30e206fc47a4",
+      "jobId": "3da82acf-6be9-44e7-a04e-47c031596e8d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3da82acf is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:43:00.489Z"
+    },
+    {
+      "id": "7710dae2-74f5-4635-8c67-9d83a5820950",
+      "jobId": "be66e348-f980-4a58-b373-e4c158362588",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job be66e348 failed and was rescheduled for retry 2",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:43:00.485Z"
+    },
+    {
+      "id": "4c87fa16-43e1-4ced-b516-57df515a7335",
+      "jobId": "a2fc7177-46b9-4460-b3a4-0f254e396c7f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a2fc7177 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:59.313Z"
+    },
+    {
+      "id": "1d2f3195-38fe-4a74-ac4a-17a4c62aed1b",
+      "jobId": "3e7360d3-9f4c-4b99-8967-324004011ad1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3e7360d3 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:59.308Z"
+    },
+    {
+      "id": "0ca5a8e9-270d-429e-9b3e-1efab876241c",
+      "jobId": "be66e348-f980-4a58-b373-e4c158362588",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job be66e348 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:59.054Z"
+    },
+    {
+      "id": "8b8fa8e3-3f00-4081-a880-1de918aba222",
+      "jobId": "c7a0ba66-82a4-44fe-95f5-1effe5669198",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job c7a0ba66 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:59.050Z"
+    },
+    {
+      "id": "bb55daba-f3d4-4bb0-be93-44e97b5c8aa3",
+      "jobId": "c7a0ba66-82a4-44fe-95f5-1effe5669198",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job c7a0ba66 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:57.912Z"
+    },
+    {
+      "id": "ba3f3c02-3a38-447a-809e-6937f2c56359",
+      "jobId": "db82fef7-986c-4bcb-8870-ec5bed4ddc12",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job db82fef7 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:57.906Z"
+    },
+    {
+      "id": "68e921d4-19c7-4b32-9f05-b565fa50aa6b",
+      "jobId": "3e7360d3-9f4c-4b99-8967-324004011ad1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3e7360d3 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:57.840Z"
+    },
+    {
+      "id": "b5866c53-ba72-4193-90e1-4ff35f411b79",
+      "jobId": "beb95a6f-2f39-4bc3-9796-3886990b24e9",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job beb95a6f processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:57.837Z"
+    },
+    {
+      "id": "92e400f6-c1b9-4923-85ae-780b48156605",
+      "jobId": "beb95a6f-2f39-4bc3-9796-3886990b24e9",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job beb95a6f is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:57.617Z"
+    },
+    {
+      "id": "410bf97c-52f8-47bb-acdb-5e163a4fd92c",
+      "jobId": "60fb2402-8762-473d-ac1b-18f0b9b38ee1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 60fb2402 failed and was rescheduled for retry 2",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:57.612Z"
+    },
+    {
+      "id": "c93381e3-1121-431f-9c5e-53493715cf1e",
+      "jobId": "db82fef7-986c-4bcb-8870-ec5bed4ddc12",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job db82fef7 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:56.747Z"
+    },
+    {
+      "id": "d68bc3c2-088e-4e77-9de8-815337fb1a34",
+      "jobId": "7e0f2510-0fd9-458f-bd19-74bb1365fc03",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7e0f2510 failed and was rescheduled for retry 2",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:56.743Z"
+    },
+    {
+      "id": "0639da7c-f839-4851-bb17-4db165daff61",
+      "jobId": "60fb2402-8762-473d-ac1b-18f0b9b38ee1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 60fb2402 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:56.555Z"
+    },
+    {
+      "id": "a2785ee2-2a94-485d-a733-fb28effe0d20",
+      "jobId": "6effa33a-63fa-40a0-9bc3-0ba21a263c05",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 6effa33a processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:56.551Z"
+    },
+    {
+      "id": "8a3f1f0d-c911-41fa-915c-37b261c5fcbe",
+      "jobId": "6effa33a-63fa-40a0-9bc3-0ba21a263c05",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 6effa33a is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:56.287Z"
+    },
+    {
+      "id": "8fcc2dcb-f681-4003-a22e-374cb8313521",
+      "jobId": "46ca39c7-3cb6-4e07-8d7b-9ff6e545a71d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 46ca39c7 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:56.281Z"
+    },
+    {
+      "id": "1fe7c1f8-4533-4c0f-9ff6-1f1fb9fa215c",
+      "jobId": "7e0f2510-0fd9-458f-bd19-74bb1365fc03",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7e0f2510 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:55.310Z"
+    },
+    {
+      "id": "0b80d565-9be6-4783-b35c-241b435e5f5b",
+      "jobId": "a7303784-efcf-4b1c-97e3-b7803880e64a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a7303784 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:55.305Z"
+    },
+    {
+      "id": "91117f90-6504-40b3-8540-85de4b370d3c",
+      "jobId": "46ca39c7-3cb6-4e07-8d7b-9ff6e545a71d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 46ca39c7 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:55.201Z"
+    },
+    {
+      "id": "cfe2e543-9e5d-4d8c-bf67-acb25d7ca4f7",
+      "jobId": "6a84932e-9be0-4212-b078-6bfe7714b049",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 6a84932e processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:55.189Z"
+    },
+    {
+      "id": "dbb2c0c2-51b8-4e9a-a220-2d9bd3781e1c",
+      "jobId": "6a84932e-9be0-4212-b078-6bfe7714b049",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 6a84932e is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:54.776Z"
+    },
+    {
+      "id": "04539847-1be6-41cf-9004-b6ae769b0ded",
+      "jobId": "d1d21338-4a78-4263-a513-87b645c7214a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job d1d21338 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:54.772Z"
+    },
+    {
+      "id": "03c42931-0a98-4849-991d-ae10c54fa1a3",
+      "jobId": "a7303784-efcf-4b1c-97e3-b7803880e64a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a7303784 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:53.876Z"
+    },
+    {
+      "id": "a602e412-21c8-4e37-a6ac-f6c660241e22",
+      "jobId": "054108dd-5e1b-45a3-8ed5-ac9d8f3ba8a1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 054108dd processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:53.873Z"
+    },
+    {
+      "id": "236b37b5-bc42-4ab2-940c-fcac2576bd77",
+      "jobId": "d1d21338-4a78-4263-a513-87b645c7214a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job d1d21338 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:53.855Z"
+    },
+    {
+      "id": "80e14152-4bad-4b45-8d81-e3f5a4b7d9f0",
+      "jobId": "1caa7fba-ac5a-47bc-82ba-6645ca621390",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 1caa7fba processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:53.852Z"
+    },
+    {
+      "id": "a27c381c-25a7-4adf-aa3c-f63be4f88fea",
+      "jobId": "1caa7fba-ac5a-47bc-82ba-6645ca621390",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 1caa7fba is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:53.255Z"
+    },
+    {
+      "id": "0a89846c-102b-48c2-b1bc-07c9d77b50e5",
+      "jobId": "4e90d4a1-eba7-44ba-a408-af0d4dc426bb",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 4e90d4a1 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:53.252Z"
+    },
+    {
+      "id": "8faab240-335f-4993-a73f-bb7a8b80b06f",
+      "jobId": "054108dd-5e1b-45a3-8ed5-ac9d8f3ba8a1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 054108dd is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:52.739Z"
+    },
+    {
+      "id": "6e25e70e-2b70-47d3-8e11-40eced55f1ba",
+      "jobId": "9dd09055-1aa0-4b15-88b1-6ed663b07903",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 9dd09055 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:52.733Z"
+    },
+    {
+      "id": "52ee8022-fb2a-45af-98e4-24bf58356653",
+      "jobId": "4e90d4a1-eba7-44ba-a408-af0d4dc426bb",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 4e90d4a1 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:52.537Z"
+    },
+    {
+      "id": "95a16026-18e6-4e5d-a88f-f1a1e5fb9220",
+      "jobId": "9eabf51c-970d-406b-82a9-b452bd9c8c0a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 9eabf51c failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:52.531Z"
+    },
+    {
+      "id": "5ee07898-d8cf-4779-970f-ef7c61070716",
+      "jobId": "9eabf51c-970d-406b-82a9-b452bd9c8c0a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 9eabf51c is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:52.116Z"
+    },
+    {
+      "id": "91d87dad-2289-4916-a25a-5b86bbc3e691",
+      "jobId": "15bd849e-a78e-466a-ac14-1b477d7def28",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 15bd849e processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:52.111Z"
+    },
+    {
+      "id": "ea5d8806-13f4-46ab-97db-999e417735d3",
+      "jobId": "9dd09055-1aa0-4b15-88b1-6ed663b07903",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 9dd09055 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:51.661Z"
+    },
+    {
+      "id": "315d50a6-92fc-44b3-824b-eb7196749f7a",
+      "jobId": "1ea763ef-2559-4153-a611-3e9055e26031",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 1ea763ef failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:51.655Z"
+    },
+    {
+      "id": "6ab0f270-431d-431d-b839-28ceb3c81c82",
+      "jobId": "15bd849e-a78e-466a-ac14-1b477d7def28",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 15bd849e is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:51.399Z"
+    },
+    {
+      "id": "12fd1a21-2847-47e7-9964-badf00663085",
+      "jobId": "beb1b550-fded-49d6-a0cb-332043f1be73",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job beb1b550 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:51.395Z"
+    },
+    {
+      "id": "63b26730-f796-4239-b4b4-87591672b978",
+      "jobId": "beb1b550-fded-49d6-a0cb-332043f1be73",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job beb1b550 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:50.922Z"
+    },
+    {
+      "id": "3e250f2c-300e-4aea-98df-a7283eabc3f0",
+      "jobId": "f9d23956-6c4a-4b60-bec7-58c5b8dec323",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job f9d23956 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:50.916Z"
+    },
+    {
+      "id": "ad0b1c07-a050-4a8f-aa05-62f6c75ec87b",
+      "jobId": "f9d23956-6c4a-4b60-bec7-58c5b8dec323",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job f9d23956 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:50.304Z"
+    },
+    {
+      "id": "47b7ac00-489e-4498-bdb0-d8bf2b551949",
+      "jobId": "fd2ba948-fca0-4001-8d29-6b017bd84a05",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job fd2ba948 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:50.299Z"
+    },
+    {
+      "id": "a1122e09-bfdd-4de4-981a-261c9a2da67d",
+      "jobId": "1ea763ef-2559-4153-a611-3e9055e26031",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 1ea763ef is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:50.193Z"
+    },
+    {
+      "id": "9fd6f770-5a29-4b32-a653-20688fdf4109",
+      "jobId": "d87c2106-feac-4b1e-aff7-1c2f7bb30492",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job d87c2106 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:50.187Z"
+    },
+    {
+      "id": "f0e4032d-476f-4405-a42c-cd6c62840ab3",
+      "jobId": "fd2ba948-fca0-4001-8d29-6b017bd84a05",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job fd2ba948 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:49.344Z"
+    },
+    {
+      "id": "07b58fd4-43f3-44c9-8d6e-0f15b73cc87f",
+      "jobId": "bf3d7fca-12d8-4129-a608-6e62ebf45143",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job bf3d7fca processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:49.338Z"
+    },
+    {
+      "id": "1da5a6a6-2e8e-4ca2-b70e-f9106837850c",
+      "jobId": "d87c2106-feac-4b1e-aff7-1c2f7bb30492",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job d87c2106 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:49.174Z"
+    },
+    {
+      "id": "fe01f58d-648e-4139-b352-1cfc8f4c6bd8",
+      "jobId": "326845e0-06f2-47fa-910d-d2cb5974e688",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 326845e0 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:49.168Z"
+    },
+    {
+      "id": "45becac8-ee56-4045-bc20-052d2b834a83",
+      "jobId": "bf3d7fca-12d8-4129-a608-6e62ebf45143",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job bf3d7fca is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:48.842Z"
+    },
+    {
+      "id": "4bdee467-b08e-41db-b172-5f890b14ed63",
+      "jobId": "c8afb6f2-6c35-4a1e-a8c8-49ed98b0360c",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job c8afb6f2 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:48.839Z"
+    },
+    {
+      "id": "e2b463bd-fb72-4e18-a86e-344e9405af71",
+      "jobId": "326845e0-06f2-47fa-910d-d2cb5974e688",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 326845e0 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:47.978Z"
+    },
+    {
+      "id": "750a9dbb-fbf0-4aac-bb7b-43a56502c466",
+      "jobId": "3233aca1-bed8-477f-a086-6faf823b8d56",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3233aca1 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:47.973Z"
+    },
+    {
+      "id": "da0c97c0-53f1-4eae-b184-9b7c74ad60c5",
+      "jobId": "c8afb6f2-6c35-4a1e-a8c8-49ed98b0360c",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job c8afb6f2 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:47.834Z"
+    },
+    {
+      "id": "25e101e3-97b5-4e64-9ba9-a11cf0df093b",
+      "jobId": "35d562ad-d8f2-4483-ade0-f09364f99464",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 35d562ad failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:47.828Z"
+    },
+    {
+      "id": "545e66d1-fff5-4d36-9d0a-f730cfea623d",
+      "jobId": "3233aca1-bed8-477f-a086-6faf823b8d56",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3233aca1 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:46.887Z"
+    },
+    {
+      "id": "d4cb59ac-da82-47c8-82a5-2b218ae502ea",
+      "jobId": "c3d4ef9c-b86c-446e-b1de-48e46e53b60a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job c3d4ef9c processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:46.882Z"
+    },
+    {
+      "id": "e1a738ff-b98c-43e7-bd76-28cf7d9a7cfc",
+      "jobId": "35d562ad-d8f2-4483-ade0-f09364f99464",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 35d562ad is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:46.723Z"
+    },
+    {
+      "id": "a63a77b6-a0e5-456f-8fe0-1c6ebbe954d6",
+      "jobId": "e6f20392-ec15-4ce2-99ef-679f123cfdbd",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job e6f20392 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:46.717Z"
+    },
+    {
+      "id": "70849380-1b7d-40eb-b44c-5aa159214784",
+      "jobId": "c3d4ef9c-b86c-446e-b1de-48e46e53b60a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job c3d4ef9c is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:46.605Z"
+    },
+    {
+      "id": "2acce356-45cb-46be-aa21-ab3ff409646d",
+      "jobId": "df30899d-8a8b-421c-b254-b6bd2767212b",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job df30899d failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:46.598Z"
+    },
+    {
+      "id": "1043c7ba-890c-4edc-9988-fbabab8c45b5",
+      "jobId": "df30899d-8a8b-421c-b254-b6bd2767212b",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job df30899d is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:45.873Z"
+    },
+    {
+      "id": "1f9d426d-7d99-497a-a25b-6a8322ff78bd",
+      "jobId": "a741102d-50a8-468a-ab76-b5a57c77ba42",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a741102d failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:45.869Z"
+    },
+    {
+      "id": "ea952f86-b3b7-41a1-8e78-120bc577907b",
+      "jobId": "e6f20392-ec15-4ce2-99ef-679f123cfdbd",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job e6f20392 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:45.716Z"
+    },
+    {
+      "id": "ff1db0a2-4b56-4673-86ed-8a0ff7ac8cd9",
+      "jobId": "0dbef30c-ae21-4996-87fd-fdbc28fc65b8",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 0dbef30c failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:45.712Z"
+    },
+    {
+      "id": "cb911dec-72fb-456a-9baa-e4552654997f",
+      "jobId": "a741102d-50a8-468a-ab76-b5a57c77ba42",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a741102d is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:45.480Z"
+    },
+    {
+      "id": "1cb63092-ee53-4e09-b3c8-cbe622c16770",
+      "jobId": "b582156a-9911-4974-bf45-22a01d81b79e",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job b582156a processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:45.476Z"
+    },
+    {
+      "id": "e5044c78-3a23-44e9-8775-5c2750dc3200",
+      "jobId": "b582156a-9911-4974-bf45-22a01d81b79e",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job b582156a is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:45.053Z"
+    },
+    {
+      "id": "0fff1ff6-5eb2-4a36-ade4-3d6b40a4977b",
+      "jobId": "df4f770d-3109-44fc-b385-8e3652933201",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job df4f770d processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:45.049Z"
+    },
+    {
+      "id": "b38a8d31-d4b4-4255-823e-6d7ce2b7b203",
+      "jobId": "0dbef30c-ae21-4996-87fd-fdbc28fc65b8",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 0dbef30c is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:44.832Z"
+    },
+    {
+      "id": "2df0525e-667f-4b5f-b06f-7270676ab9e4",
+      "jobId": "9ea29948-1c6d-465a-ac5f-c13bbc6821f6",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 9ea29948 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:44.828Z"
+    },
+    {
+      "id": "a224f965-d0de-4bff-acc1-0fbc02ceceb4",
+      "jobId": "df4f770d-3109-44fc-b385-8e3652933201",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job df4f770d is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:44.750Z"
+    },
+    {
+      "id": "7ef39103-0eea-41fe-a19a-bc334f08e9bf",
+      "jobId": "31ff9eee-b30e-4c90-b101-b949a48b0736",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 31ff9eee processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:44.748Z"
+    },
+    {
+      "id": "87abe9fb-645e-4504-ad1b-665507d587fd",
+      "jobId": "9ea29948-1c6d-465a-ac5f-c13bbc6821f6",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 9ea29948 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:44.584Z"
+    },
+    {
+      "id": "db3c1428-9b64-47a2-a311-45d783ee0894",
+      "jobId": "89e17651-01cf-4d0c-9232-9579b851cd00",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 89e17651 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:44.579Z"
+    },
+    {
+      "id": "9acbb70d-645e-4def-8ea8-5d22c20ce9e0",
+      "jobId": "31ff9eee-b30e-4c90-b101-b949a48b0736",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 31ff9eee is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:43.488Z"
+    },
+    {
+      "id": "0ca77d56-9276-4a07-9bd6-90a61e3525d2",
+      "jobId": "cbcf703f-a3b4-47e5-ae2a-05c564206d51",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job cbcf703f processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:43.484Z"
+    },
+    {
+      "id": "404f605d-7e09-4ee8-8404-bab7ebb6a6d3",
+      "jobId": "89e17651-01cf-4d0c-9232-9579b851cd00",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 89e17651 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:43.466Z"
+    },
+    {
+      "id": "228e6e0e-6a0e-43d3-87c3-fe3b2e50d7e7",
+      "jobId": "50a3737f-8618-49ba-80f3-eddb0fe458a2",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 50a3737f processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:43.460Z"
+    },
+    {
+      "id": "912392e2-5c47-45a1-adde-e02fc0f773e5",
+      "jobId": "cbcf703f-a3b4-47e5-ae2a-05c564206d51",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job cbcf703f is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:42.717Z"
+    },
+    {
+      "id": "72b01ca8-990a-4127-a3f1-ba740750ad1f",
+      "jobId": "18ceb98a-039d-4e6b-966c-5df7d0f62390",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 18ceb98a processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:42.711Z"
+    },
+    {
+      "id": "1f322539-6e0b-4b18-91ff-6e73b986ce3f",
+      "jobId": "18ceb98a-039d-4e6b-966c-5df7d0f62390",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 18ceb98a is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:42.438Z"
+    },
+    {
+      "id": "cedf693f-d911-491c-b61f-a6a714f027cc",
+      "jobId": "d0caa565-f9ee-4f94-a363-299f2868661f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job d0caa565 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:42.434Z"
+    },
+    {
+      "id": "c2321b5a-3a9b-4ee3-a57f-25588c573a9c",
+      "jobId": "50a3737f-8618-49ba-80f3-eddb0fe458a2",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 50a3737f is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:42.095Z"
+    },
+    {
+      "id": "dd3d001d-561a-497c-92c4-9319d9c209ff",
+      "jobId": "27c75041-59ca-4c20-b69e-9ee39033edde",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 27c75041 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:42.089Z"
+    },
+    {
+      "id": "31653f9f-018c-4b85-be76-a0b8a5ffa033",
+      "jobId": "d0caa565-f9ee-4f94-a363-299f2868661f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job d0caa565 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:41.769Z"
+    },
+    {
+      "id": "1c29b758-5234-4756-bcb8-86b1466ef442",
+      "jobId": "1a1a3f24-9b5c-4768-b09f-3ba40fc3cf2c",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 1a1a3f24 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:41.765Z"
+    },
+    {
+      "id": "57daa9a7-a58b-4e91-960d-f7bfd5c46d77",
+      "jobId": "27c75041-59ca-4c20-b69e-9ee39033edde",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 27c75041 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:41.706Z"
+    },
+    {
+      "id": "674a9176-4c10-4b62-9af1-b0dd2af61890",
+      "jobId": "4f4dffea-d254-4238-8059-04d23ec2d473",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 4f4dffea processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:41.700Z"
+    },
+    {
+      "id": "6bea1a3a-8094-463d-b34c-e18a3e80d7ca",
+      "jobId": "1a1a3f24-9b5c-4768-b09f-3ba40fc3cf2c",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 1a1a3f24 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:40.538Z"
+    },
+    {
+      "id": "68a0f474-606e-4237-8eea-d03bab38f045",
+      "jobId": "3affad78-a17f-412f-8f92-fbdbb05bd3a3",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3affad78 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:40.535Z"
+    },
+    {
+      "id": "6f432e2e-6bfa-4e14-b1ff-455430f87f12",
+      "jobId": "4f4dffea-d254-4238-8059-04d23ec2d473",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 4f4dffea is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:40.525Z"
+    },
+    {
+      "id": "9309e3a8-c95b-402e-8290-7e25da573a1e",
+      "jobId": "3bfd1c2f-4d45-4768-9c4c-02c52795a36f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3bfd1c2f processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:40.522Z"
+    },
+    {
+      "id": "71a061b5-e2a3-4d9d-984a-0e3a8d918b1d",
+      "jobId": "3bfd1c2f-4d45-4768-9c4c-02c52795a36f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3bfd1c2f is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:39.704Z"
+    },
+    {
+      "id": "615531b1-87bf-4caf-9b18-18623a2e5f9f",
+      "jobId": "e1423e90-3ec6-4694-b192-083a840e1984",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job e1423e90 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:39.702Z"
+    },
+    {
+      "id": "9d8a568a-3fbf-4bed-b6a3-73f857ec9be9",
+      "jobId": "3affad78-a17f-412f-8f92-fbdbb05bd3a3",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3affad78 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:39.421Z"
+    },
+    {
+      "id": "cab4d01b-a473-4d1a-9b5c-1d2b4174c4da",
+      "jobId": "ee238c4c-38cd-4a9a-9ca2-b76b5ff50eb6",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job ee238c4c processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:39.415Z"
+    },
+    {
+      "id": "ecd574db-9dc3-43b1-a3f0-e8268b31abc2",
+      "jobId": "ee238c4c-38cd-4a9a-9ca2-b76b5ff50eb6",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job ee238c4c is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:39.187Z"
+    },
+    {
+      "id": "a990c480-f7c2-4b0d-8a4f-843ae4fe35e3",
+      "jobId": "ed02690a-98ce-44c2-af71-51a6292c542a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job ed02690a processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:39.182Z"
+    },
+    {
+      "id": "38d80466-2169-4696-a6f8-6feb075114e7",
+      "jobId": "ed02690a-98ce-44c2-af71-51a6292c542a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job ed02690a is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:38.420Z"
+    },
+    {
+      "id": "2417592e-846a-4722-b293-b458ba7931f9",
+      "jobId": "d9dbeee7-4d68-4113-8813-b9cffb49b8e8",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job d9dbeee7 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:38.414Z"
+    },
+    {
+      "id": "aae9e887-5ac3-407f-a55d-7807ef7f0be0",
+      "jobId": "e1423e90-3ec6-4694-b192-083a840e1984",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job e1423e90 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:38.311Z"
+    },
+    {
+      "id": "a24a6b0e-b9d5-42a5-bbc5-7f6ddc3a9225",
+      "jobId": "6afd153f-2e69-4175-8671-f03c4a8895d4",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 6afd153f processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:38.305Z"
+    },
+    {
+      "id": "086a8e46-2f57-464d-bc22-0b8c5f66c404",
+      "jobId": "6afd153f-2e69-4175-8671-f03c4a8895d4",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 6afd153f is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:38.079Z"
+    },
+    {
+      "id": "361bd1af-018b-4694-ad3c-a621a4b89574",
+      "jobId": "75ee6834-28c2-49f3-8824-c6da9c8d46bf",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 75ee6834 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:38.076Z"
+    },
+    {
+      "id": "71dad580-25d6-4ecd-aaab-54c79189ebb4",
+      "jobId": "75ee6834-28c2-49f3-8824-c6da9c8d46bf",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 75ee6834 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:37.546Z"
+    },
+    {
+      "id": "57831352-9d01-4940-a6e0-9ac6585a25d8",
+      "jobId": "dd364801-275b-4a0c-902d-93630fbf9f58",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job dd364801 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:37.542Z"
+    },
+    {
+      "id": "75802391-90c3-47db-b607-a2db60d4e53b",
+      "jobId": "dd364801-275b-4a0c-902d-93630fbf9f58",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job dd364801 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:37.163Z"
+    },
+    {
+      "id": "a69ae6d8-474b-4304-9fa9-c4748439079f",
+      "jobId": "4f14d912-4357-40c6-93ea-ddf97ab7abc1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 4f14d912 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:37.158Z"
+    },
+    {
+      "id": "e329e4b8-01de-489a-8978-70eec908d989",
+      "jobId": "d9dbeee7-4d68-4113-8813-b9cffb49b8e8",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job d9dbeee7 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:36.948Z"
+    },
+    {
+      "id": "6556dac7-f80d-4121-afd9-08075c6cf80b",
+      "jobId": "f2a1d5d6-5803-4e86-bf7a-a9fff9221528",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job f2a1d5d6 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:36.942Z"
+    },
+    {
+      "id": "f046a332-5d86-455d-8095-30b30a02a647",
+      "jobId": "f2a1d5d6-5803-4e86-bf7a-a9fff9221528",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job f2a1d5d6 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:36.615Z"
+    },
+    {
+      "id": "7e75d39f-0857-498c-a0a0-8984a1821f6b",
+      "jobId": "a5c67754-4722-4f08-9a05-25378e1293ec",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a5c67754 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:36.611Z"
+    },
+    {
+      "id": "8355029c-69f3-4970-b6fa-083e4fc2b0fa",
+      "jobId": "4f14d912-4357-40c6-93ea-ddf97ab7abc1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 4f14d912 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:35.949Z"
+    },
+    {
+      "id": "863e44fb-4bdc-4403-ba54-2ec1c4600ec2",
+      "jobId": "ef6b6459-2f59-4251-a9c6-7d5b8223cffb",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job ef6b6459 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:35.943Z"
+    },
+    {
+      "id": "b2cec5a9-1ea8-4033-aaff-6bbd1f1fcb0e",
+      "jobId": "a5c67754-4722-4f08-9a05-25378e1293ec",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a5c67754 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:35.600Z"
+    },
+    {
+      "id": "d12b8e06-8341-485d-ba43-8585f841ed87",
+      "jobId": "8b0f6928-7c8e-46f3-998e-66e08be9e715",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 8b0f6928 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:35.597Z"
+    },
+    {
+      "id": "62cc612c-3c2f-42c5-b784-93d2d9ad1995",
+      "jobId": "ef6b6459-2f59-4251-a9c6-7d5b8223cffb",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job ef6b6459 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:34.770Z"
+    },
+    {
+      "id": "d15dda65-9ddd-422c-bdca-e265fb033c03",
+      "jobId": "754ceaa8-8b3a-4d2b-b62a-4cc914f42ddf",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 754ceaa8 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:34.767Z"
+    },
+    {
+      "id": "99fbadf7-bf8d-451a-9e9d-f4bc030cc000",
+      "jobId": "8b0f6928-7c8e-46f3-998e-66e08be9e715",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 8b0f6928 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:34.723Z"
+    },
+    {
+      "id": "d46029e3-456d-4172-8c97-45f28bff6deb",
+      "jobId": "cc61f19d-12ab-4a73-8ecd-8553ef5beb35",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job cc61f19d processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:34.721Z"
+    },
+    {
+      "id": "c159431c-e7ad-44b9-acdf-9c72f5d96074",
+      "jobId": "cc61f19d-12ab-4a73-8ecd-8553ef5beb35",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job cc61f19d is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:34.221Z"
+    },
+    {
+      "id": "8d40a09b-7646-4dd2-98ee-4a43b34e412c",
+      "jobId": "b3e9b829-e9ae-4d2e-8b24-b8d78ff39941",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job b3e9b829 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:34.217Z"
+    },
+    {
+      "id": "69cea39c-1c87-4d01-8732-85a02b69dfce",
+      "jobId": "754ceaa8-8b3a-4d2b-b62a-4cc914f42ddf",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 754ceaa8 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:33.998Z"
+    },
+    {
+      "id": "0073aeb7-bd9c-4c0a-9fe1-fedb9a0951d9",
+      "jobId": "13c02a77-b903-478b-b9d1-50f5d20764eb",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 13c02a77 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:33.993Z"
+    },
+    {
+      "id": "aa25a9e9-d631-4c82-86e9-bc4065e1ba57",
+      "jobId": "13c02a77-b903-478b-b9d1-50f5d20764eb",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 13c02a77 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:33.031Z"
+    },
+    {
+      "id": "dfd0a341-077b-4572-baa2-a5de221deb1b",
+      "jobId": "f195ec1c-30b4-4453-b94b-d3d5cb18d3a9",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job f195ec1c processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:33.026Z"
+    },
+    {
+      "id": "353383b3-e8cf-48af-8ca3-54dcc2301786",
+      "jobId": "b3e9b829-e9ae-4d2e-8b24-b8d78ff39941",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job b3e9b829 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:32.810Z"
+    },
+    {
+      "id": "710b9115-964e-40f7-8ef7-f9cdc93254e9",
+      "jobId": "0dfee5d9-8ad7-4f66-b902-141f9ea6f7d7",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 0dfee5d9 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:32.804Z"
+    },
+    {
+      "id": "aad326b8-48b0-4e02-a634-624eb173c70b",
+      "jobId": "0dfee5d9-8ad7-4f66-b902-141f9ea6f7d7",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 0dfee5d9 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:32.493Z"
+    },
+    {
+      "id": "3d189450-bf6a-4bbe-9d08-75fc1f777907",
+      "jobId": "b1122d35-a1ba-4977-a9af-d5783dd3dec5",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job b1122d35 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:32.488Z"
+    },
+    {
+      "id": "daeb230d-e686-4581-9b2e-61ca410f3b5d",
+      "jobId": "f195ec1c-30b4-4453-b94b-d3d5cb18d3a9",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job f195ec1c is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:32.070Z"
+    },
+    {
+      "id": "f8fd6969-e492-46bf-b0af-ed591c786bb0",
+      "jobId": "168c19b7-f29f-46c7-85b6-d8ce81798496",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 168c19b7 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:32.065Z"
+    },
+    {
+      "id": "db5f14ad-c6b0-4f52-b90f-c4d87ba39fb9",
+      "jobId": "b1122d35-a1ba-4977-a9af-d5783dd3dec5",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job b1122d35 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:31.394Z"
+    },
+    {
+      "id": "6813fed1-2b17-43db-8d94-7f19392f51b3",
+      "jobId": "99904c4b-7609-49ad-9804-531fd974dbfe",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 99904c4b failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:31.390Z"
+    },
+    {
+      "id": "f38d46bf-be13-4799-a198-ce84b8225dac",
+      "jobId": "168c19b7-f29f-46c7-85b6-d8ce81798496",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 168c19b7 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:30.908Z"
+    },
+    {
+      "id": "026e42dc-6634-4229-9d97-0ba97f9e4c69",
+      "jobId": "9cb1a888-41c0-41c8-ad27-2708f15c9a56",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 9cb1a888 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:30.903Z"
+    },
+    {
+      "id": "23c05dd9-190b-4899-996f-22bff57f250f",
+      "jobId": "99904c4b-7609-49ad-9804-531fd974dbfe",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 99904c4b is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:30.499Z"
+    },
+    {
+      "id": "a27e726d-ddfa-425a-b48d-a2c936fff055",
+      "jobId": "792576e3-a847-4a2b-8ae5-196e871dd4e4",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 792576e3 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:30.494Z"
+    },
+    {
+      "id": "3a4a5e63-b453-4418-af0f-f7681bcac7d7",
+      "jobId": "9cb1a888-41c0-41c8-ad27-2708f15c9a56",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 9cb1a888 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:30.259Z"
+    },
+    {
+      "id": "f464602a-55d3-4d9c-8c6f-bc607ca9fa61",
+      "jobId": "7d578177-c9b6-486c-bd73-86ded9d7e3b2",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7d578177 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:30.255Z"
+    },
+    {
+      "id": "4d6fed7c-f2c0-4b4e-aff6-6333b3011a14",
+      "jobId": "792576e3-a847-4a2b-8ae5-196e871dd4e4",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 792576e3 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:29.054Z"
+    },
+    {
+      "id": "0cf73428-22af-40b3-b2a2-0bac032192cd",
+      "jobId": "bf56ebc9-f697-4c15-ba6f-2266deecf35b",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job bf56ebc9 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:29.048Z"
+    },
+    {
+      "id": "6a479092-145f-4e42-ba54-3e8a3a18ea86",
+      "jobId": "7d578177-c9b6-486c-bd73-86ded9d7e3b2",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7d578177 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:28.970Z"
+    },
+    {
+      "id": "9bd5b476-9939-4ae8-aa77-2e91ef108d39",
+      "jobId": "ada5846c-aadd-43f3-8d74-9d7a870a9c63",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job ada5846c processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:28.967Z"
+    },
+    {
+      "id": "d8f37b46-4308-4961-ab00-30dfce3721d9",
+      "jobId": "bf56ebc9-f697-4c15-ba6f-2266deecf35b",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job bf56ebc9 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:28.193Z"
+    },
+    {
+      "id": "b0e2e4e9-e671-40ce-911f-4b73b4c767cf",
+      "jobId": "37b9ace3-9cc5-45d7-b7e8-73e5dcba1f81",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 37b9ace3 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:28.187Z"
+    },
+    {
+      "id": "ca02e29d-395d-4a45-860a-adecfb8fb900",
+      "jobId": "37b9ace3-9cc5-45d7-b7e8-73e5dcba1f81",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 37b9ace3 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:27.785Z"
+    },
+    {
+      "id": "1ddda171-5391-46c0-8ca7-6341c453cbc6",
+      "jobId": "b17ba3d0-35a0-4a51-a9d4-32b43882ff3a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job b17ba3d0 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:27.779Z"
+    },
+    {
+      "id": "eaefdf91-34ed-4da3-aedf-67f73c4be135",
+      "jobId": "ada5846c-aadd-43f3-8d74-9d7a870a9c63",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job ada5846c is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:27.649Z"
+    },
+    {
+      "id": "94e9eb84-031d-4b09-9436-e866521723e9",
+      "jobId": "bfe098a8-7203-4d35-baa4-78defd638390",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job bfe098a8 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:27.643Z"
+    },
+    {
+      "id": "6b6eed6b-d399-4be1-b8b1-638e00ad479e",
+      "jobId": "b17ba3d0-35a0-4a51-a9d4-32b43882ff3a",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job b17ba3d0 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:27.315Z"
+    },
+    {
+      "id": "8208350a-c19e-416d-b0f9-9f33f762985d",
+      "jobId": "86e54df4-cfe0-4d80-a354-75ee9c5d674d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 86e54df4 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:27.312Z"
+    },
+    {
+      "id": "a6e99439-533d-4b78-bc39-bfecb5ae97ec",
+      "jobId": "86e54df4-cfe0-4d80-a354-75ee9c5d674d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 86e54df4 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:26.978Z"
+    },
+    {
+      "id": "795a5fbc-e18b-4357-9402-23569b124cb1",
+      "jobId": "339370c3-a4cb-4224-8275-042659900ffb",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 339370c3 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:26.973Z"
+    },
+    {
+      "id": "fa1913d2-4e96-40ce-b1d4-935a91186676",
+      "jobId": "339370c3-a4cb-4224-8275-042659900ffb",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 339370c3 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:26.730Z"
+    },
+    {
+      "id": "ff91566d-1c9e-411c-8cf3-ab99751f2e1a",
+      "jobId": "dac5701f-1bd0-4e70-a1da-978c29093548",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job dac5701f processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:26.724Z"
+    },
+    {
+      "id": "36a3bdaa-757b-4e02-807e-5ae413cd73e4",
+      "jobId": "bfe098a8-7203-4d35-baa4-78defd638390",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job bfe098a8 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:26.485Z"
+    },
+    {
+      "id": "5c82ea5c-ab3f-4d04-bcf9-da0d9c07a1c1",
+      "jobId": "7175c82d-d2c3-495b-ab6d-9eb52b15a83f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7175c82d failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:26.480Z"
+    },
+    {
+      "id": "71361352-2f86-4745-bcae-2b527518f4d9",
+      "jobId": "7175c82d-d2c3-495b-ab6d-9eb52b15a83f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7175c82d is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:26.024Z"
+    },
+    {
+      "id": "5103695f-5786-4611-a14f-9a05a5f2d89b",
+      "jobId": "af8a1c16-0166-4b11-b60a-7606065ed2a0",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job af8a1c16 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:26.018Z"
+    },
+    {
+      "id": "e8a4f2ca-9e45-4138-9dd5-a6d91a42e305",
+      "jobId": "af8a1c16-0166-4b11-b60a-7606065ed2a0",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job af8a1c16 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:25.718Z"
+    },
+    {
+      "id": "d003ccbe-690c-433d-8edb-8a87ab2d3953",
+      "jobId": "dac5701f-1bd0-4e70-a1da-978c29093548",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job dac5701f is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:25.701Z"
+    },
+    {
+      "id": "cbb3b10c-c753-4e50-b81a-1af3d4195b6b",
+      "jobId": "84050361-f9a3-428c-8c12-469fd7a4a0fa",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 84050361 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:25.697Z"
+    },
+    {
+      "id": "6c40bab3-ebf6-4160-8ac8-1cccc67f6a70",
+      "jobId": "32107c54-ea47-4fb5-9ab0-bb18f96b1e3d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 32107c54 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:25.692Z"
+    },
+    {
+      "id": "0853f42d-9536-42a5-bbfb-bda0278dfebc",
+      "jobId": "84050361-f9a3-428c-8c12-469fd7a4a0fa",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 84050361 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:25.393Z"
+    },
+    {
+      "id": "8a9d411d-964f-4a4e-8175-4783df08ee19",
+      "jobId": "492632b8-e47d-4834-a058-0ca2810fbd55",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 492632b8 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:25.387Z"
+    },
+    {
+      "id": "3a80fe0e-7323-45e0-8645-cde35d1f4be1",
+      "jobId": "32107c54-ea47-4fb5-9ab0-bb18f96b1e3d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 32107c54 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:24.866Z"
+    },
+    {
+      "id": "9700902a-cf91-4ae9-890b-c4ad46a8d68a",
+      "jobId": "3da82acf-6be9-44e7-a04e-47c031596e8d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3da82acf failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:24.861Z"
+    },
+    {
+      "id": "a6a495f3-d7b5-476c-a054-13db3355680d",
+      "jobId": "492632b8-e47d-4834-a058-0ca2810fbd55",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 492632b8 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:24.296Z"
+    },
+    {
+      "id": "43b7357d-173e-4997-9bb9-64b72334e136",
+      "jobId": "a2fc7177-46b9-4460-b3a4-0f254e396c7f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a2fc7177 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:24.291Z"
+    },
+    {
+      "id": "b207fedd-7869-4f53-bf4c-95ce6f71545b",
+      "jobId": "3da82acf-6be9-44e7-a04e-47c031596e8d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3da82acf is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:23.816Z"
+    },
+    {
+      "id": "433dec39-1fdc-4897-9927-92d9ec535027",
+      "jobId": "be66e348-f980-4a58-b373-e4c158362588",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job be66e348 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:23.810Z"
+    },
+    {
+      "id": "a09693af-28f8-4906-9fc8-b7b070864cbb",
+      "jobId": "a2fc7177-46b9-4460-b3a4-0f254e396c7f",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a2fc7177 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:23.059Z"
+    },
+    {
+      "id": "201f27f3-f3b4-448a-8e5d-93f6e123baa6",
+      "jobId": "72bb2066-9533-4fd5-8b62-82d7df4d0060",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 72bb2066 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:23.055Z"
+    },
+    {
+      "id": "f9865699-9b07-40c4-8058-9a221759c767",
+      "jobId": "72bb2066-9533-4fd5-8b62-82d7df4d0060",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 72bb2066 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:22.831Z"
+    },
+    {
+      "id": "a3c79aff-b235-467f-b1be-7c967b547b0d",
+      "jobId": "def2d949-aa04-4948-a041-af97e8803f89",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job def2d949 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:22.826Z"
+    },
+    {
+      "id": "d5e925f5-5814-44f0-b76a-545e23f74ff3",
+      "jobId": "be66e348-f980-4a58-b373-e4c158362588",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job be66e348 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:22.463Z"
+    },
+    {
+      "id": "5906be40-a569-4a50-a04d-90470e839ef7",
+      "jobId": "3d283843-3aa5-476d-9b5b-23537b91c9d3",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3d283843 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:22.459Z"
+    },
+    {
+      "id": "0a7d57ba-0cc0-4ee8-8729-0316631eec9c",
+      "jobId": "3d283843-3aa5-476d-9b5b-23537b91c9d3",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3d283843 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:21.913Z"
+    },
+    {
+      "id": "1fea2fc5-d729-441d-8312-f2052f77103b",
+      "jobId": "c7a0ba66-82a4-44fe-95f5-1effe5669198",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job c7a0ba66 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:21.910Z"
+    },
+    {
+      "id": "1e575a20-2dc4-44c2-9258-8cc58fb87566",
+      "jobId": "def2d949-aa04-4948-a041-af97e8803f89",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job def2d949 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:21.812Z"
+    },
+    {
+      "id": "b506b554-8dbd-4f1a-adcb-b635b259224c",
+      "jobId": "fe198501-07d0-49ee-a528-f0ae3e7b915b",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job fe198501 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:21.807Z"
+    },
+    {
+      "id": "5fda2752-5312-4675-863b-2e915c884fb9",
+      "jobId": "fe198501-07d0-49ee-a528-f0ae3e7b915b",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job fe198501 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:20.916Z"
+    },
+    {
+      "id": "856cc1e3-e870-4b97-b48e-705bdcf766d4",
+      "jobId": "83bb4111-5aad-416e-91f8-0f7c028b317d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 83bb4111 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:20.909Z"
+    },
+    {
+      "id": "a73e503e-60dc-4eb7-9235-ada6444ee83d",
+      "jobId": "83bb4111-5aad-416e-91f8-0f7c028b317d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 83bb4111 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:20.502Z"
+    },
+    {
+      "id": "8ac88220-413b-4ada-b8cf-05c2f3fd3d4d",
+      "jobId": "519bb136-7780-4b6a-9708-a998e72534ac",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 519bb136 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:20.499Z"
+    },
+    {
+      "id": "455a2a36-cfd4-40ef-90a6-74d2570accf7",
+      "jobId": "c7a0ba66-82a4-44fe-95f5-1effe5669198",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job c7a0ba66 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:20.493Z"
+    },
+    {
+      "id": "8d6e2be2-c897-43ce-81b2-f9a425b4d77e",
+      "jobId": "3e7360d3-9f4c-4b99-8967-324004011ad1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3e7360d3 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:20.488Z"
+    },
+    {
+      "id": "03f167e4-eaac-4cae-ad42-303e2440533c",
+      "jobId": "519bb136-7780-4b6a-9708-a998e72534ac",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 519bb136 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:19.245Z"
+    },
+    {
+      "id": "274dbbef-f216-4c15-b88e-213b4dd07fa8",
+      "jobId": "beb95a6f-2f39-4bc3-9796-3886990b24e9",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job beb95a6f failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:19.241Z"
+    },
+    {
+      "id": "2693e918-d291-4905-98cc-9c2382a8037e",
+      "jobId": "3e7360d3-9f4c-4b99-8967-324004011ad1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 3e7360d3 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:19.065Z"
+    },
+    {
+      "id": "fb7b5260-1a56-492b-ae28-980cc08fb5e9",
+      "jobId": "db82fef7-986c-4bcb-8870-ec5bed4ddc12",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job db82fef7 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:19.061Z"
+    },
+    {
+      "id": "e7665a04-fb78-457a-aabc-c07605e92dc0",
+      "jobId": "db82fef7-986c-4bcb-8870-ec5bed4ddc12",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job db82fef7 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:18.146Z"
+    },
+    {
+      "id": "bd319f96-9494-4c36-bee0-94adb13dbd24",
+      "jobId": "60fb2402-8762-473d-ac1b-18f0b9b38ee1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 60fb2402 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:18.145Z"
+    },
+    {
+      "id": "d9882257-fd3a-4fa9-bd6b-b0b71de30282",
+      "jobId": "beb95a6f-2f39-4bc3-9796-3886990b24e9",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job beb95a6f is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:17.895Z"
+    },
+    {
+      "id": "9cc1fe4f-7142-4522-8dc0-313d6a9872d5",
+      "jobId": "1f3af986-3b18-4ccd-88c1-8c5dc46e3515",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 1f3af986 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:17.891Z"
+    },
+    {
+      "id": "1037bdba-a767-4dd2-b67a-76381dc80cfe",
+      "jobId": "1f3af986-3b18-4ccd-88c1-8c5dc46e3515",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 1f3af986 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:16.747Z"
+    },
+    {
+      "id": "54aab259-f41c-4d26-9e46-f57ef169d7ee",
+      "jobId": "f219edad-b758-489f-9b6f-0f67a17e3180",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job f219edad processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:16.744Z"
+    },
+    {
+      "id": "a1eef4af-29cc-4cc9-bb08-053fbbb8a76f",
+      "jobId": "60fb2402-8762-473d-ac1b-18f0b9b38ee1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 60fb2402 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:16.682Z"
+    },
+    {
+      "id": "8954105c-b5e3-4f2f-aefc-410c1056e13d",
+      "jobId": "6effa33a-63fa-40a0-9bc3-0ba21a263c05",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 6effa33a failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:16.676Z"
+    },
+    {
+      "id": "4518617c-1a46-496f-9c8e-9ee68640c84a",
+      "jobId": "6effa33a-63fa-40a0-9bc3-0ba21a263c05",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 6effa33a is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:15.491Z"
+    },
+    {
+      "id": "cf9cec86-81a1-4869-9a47-00f4b8d89b75",
+      "jobId": "0347ee8d-70af-414e-a291-c63a3f85929d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 0347ee8d processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:15.488Z"
+    },
+    {
+      "id": "467e8b76-ae5c-4021-b45b-ea86d2eee8b9",
+      "jobId": "f219edad-b758-489f-9b6f-0f67a17e3180",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job f219edad is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:15.342Z"
+    },
+    {
+      "id": "31e0c71f-be4f-4a80-b77e-c1bbfecae782",
+      "jobId": "b3487e43-e79f-41fd-87fc-1e041d5e5504",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job b3487e43 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:15.337Z"
+    },
+    {
+      "id": "afa3bf78-3890-4695-acd5-52e37cb0a393",
+      "jobId": "b3487e43-e79f-41fd-87fc-1e041d5e5504",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job b3487e43 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:14.779Z"
+    },
+    {
+      "id": "da72d3df-e7aa-4d0f-8fbc-babc27194acd",
+      "jobId": "7e0f2510-0fd9-458f-bd19-74bb1365fc03",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7e0f2510 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:14.776Z"
+    },
+    {
+      "id": "1669ceb2-7f89-4187-9cab-0d55f84e09a9",
+      "jobId": "7e0f2510-0fd9-458f-bd19-74bb1365fc03",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 7e0f2510 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:14.540Z"
+    },
+    {
+      "id": "363f82d9-815b-45e6-bd2c-69f72521d6e1",
+      "jobId": "b3c8d9fe-4f92-401a-b8b8-e12b8ab6eda1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job b3c8d9fe processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:14.537Z"
+    },
+    {
+      "id": "770eca84-3061-4b84-83a1-455bc246ddc2",
+      "jobId": "0347ee8d-70af-414e-a291-c63a3f85929d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 0347ee8d is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:14.519Z"
+    },
+    {
+      "id": "a7eae93b-4641-4ba7-a3a0-cae6e3e6b228",
+      "jobId": "8d8cb425-a996-4e70-8527-d9bf41c110cb",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 8d8cb425 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:14.514Z"
+    },
+    {
+      "id": "e8892a47-498f-43aa-ae5e-7649def9d766",
+      "jobId": "b3c8d9fe-4f92-401a-b8b8-e12b8ab6eda1",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job b3c8d9fe is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:14.233Z"
+    },
+    {
+      "id": "ab638951-83e5-4a8a-9894-29eab5b6952e",
+      "jobId": "5dcd117b-50d0-45d4-93ad-e34b42a54d93",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 5dcd117b processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:14.229Z"
+    },
+    {
+      "id": "5057c961-41ec-4624-8ee2-5e337a887aa0",
+      "jobId": "8d8cb425-a996-4e70-8527-d9bf41c110cb",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 8d8cb425 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:13.673Z"
+    },
+    {
+      "id": "1948caf2-6e92-47ab-9e39-f54ead544f4c",
+      "jobId": "46ca39c7-3cb6-4e07-8d7b-9ff6e545a71d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 46ca39c7 failed and was rescheduled for retry 1",
+      "eventType": "RETRY",
+      "level": "WARN",
+      "createdAt": "2026-05-10T17:42:13.667Z"
+    },
+    {
+      "id": "2b23d04e-9aa7-4c08-b10a-53ee54798457",
+      "jobId": "5dcd117b-50d0-45d4-93ad-e34b42a54d93",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 5dcd117b is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:13.201Z"
+    },
+    {
+      "id": "840c4407-53e5-4237-b0bd-2abeba0b6140",
+      "jobId": "a0f752b2-6989-47c4-b314-096543804ca6",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a0f752b2 processed successfully",
+      "eventType": "SUCCESS",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:13.199Z"
+    },
+    {
+      "id": "6ffb8205-f8a8-4d14-82d6-b0c97a7250d0",
+      "jobId": "46ca39c7-3cb6-4e07-8d7b-9ff6e545a71d",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job 46ca39c7 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:12.989Z"
+    },
+    {
+      "id": "2bc21136-21ae-4a32-b8a8-e72cb2308ac3",
+      "jobId": "a0f752b2-6989-47c4-b314-096543804ca6",
+      "batchId": "290f57d4-3c48-4e5b-b97c-92ad2125a4d6",
+      "message": "Job a0f752b2 is being processed",
+      "eventType": "STARTED",
+      "level": "INFO",
+      "createdAt": "2026-05-10T17:42:12.946Z"
+    }
+  ],
+  "readyQueue": [],
+  "retryQueue": []
+}

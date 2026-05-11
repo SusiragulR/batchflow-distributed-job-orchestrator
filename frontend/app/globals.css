@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --chart-1: oklch(0.67 0.17 154);
+  --chart-2: oklch(0.647 0.206 24);
+  --chart-3: oklch(0.77 0.162 80);
+  --chart-4: oklch(0.673 0.149 216);
+  --chart-5: oklch(0.587 0.133 216);
+}
+
+html {
+  background: oklch(0.979 0.008 95);
+}
+
+body {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, oklch(0.95 0.045 223 / 0.8), transparent 40%),
+    radial-gradient(circle at top right, oklch(0.97 0.03 155 / 0.75), transparent 32%),
+    oklch(0.979 0.008 95);
+  color: oklch(0.23 0.02 255);
+  font-family: "Avenir Next", ui-sans-serif, system-ui, sans-serif;
+}
+
+* {
+  border-color: oklch(0.89 0.012 85);
+}
+
+::selection {
+  background: oklch(0.84 0.091 223);
+  color: oklch(0.23 0.02 255);
+}

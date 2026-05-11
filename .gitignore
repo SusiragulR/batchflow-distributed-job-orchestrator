@@ -1,0 +1,16 @@
+node_modules
+.next
+dist
+coverage
+.env
+.env.local
+.env.*
+frontend/.env
+frontend/.env.local
+frontend/.env.*
+backend/.env
+backend/.env.local
+backend/.env.*
+backend/.runtime
+.DS_Store
+*.log
