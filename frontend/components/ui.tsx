@@ -66,9 +66,8 @@ export function ActionButton({
 export function StatusBadge({ status }: { status: string }) {
   return (
     <span
-      className={`inline-flex rounded-full border px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] ${
-        statusStyles[status] ?? "border-border bg-surfaceMuted text-inkSoft"
-      }`}
+      className={`inline-flex w-fit items-center justify-center self-start rounded-full border px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] ${statusStyles[status] ?? "border-border bg-surfaceMuted text-inkSoft"
+        }`}
     >
       {status.toLowerCase()}
     </span>
@@ -170,9 +169,8 @@ export function LogsList({
           </p>
         </div>
         <span
-          className={`rounded-full px-2.5 py-1 text-[11px] font-semibold uppercase tracking-[0.2em] ${
-            isLive ? "bg-brand-100 text-brand-700" : "bg-surfaceMuted text-inkSoft"
-          }`}
+          className={`rounded-full px-2.5 py-1 text-[11px] font-semibold uppercase tracking-[0.2em] ${isLive ? "bg-brand-100 text-brand-700" : "bg-surfaceMuted text-inkSoft"
+            }`}
         >
           {isLive ? "live" : "static"}
         </span>

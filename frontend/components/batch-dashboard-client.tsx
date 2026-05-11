@@ -146,7 +146,7 @@ export function BatchDashboardClient({ batchId }: { batchId: string }) {
           </div>
         </div>
 
-        <div className="grid gap-6 xl:grid-cols-[1fr_1fr_1.2fr_1.1fr]">
+        <div className="grid gap-6 grid-cols-2 grid gap-4 grid-cols-1 xl:grid-cols-2">
           <Panel title="Job Status Distribution" caption="Share of successful, failed, and still-running jobs.">
             <DistributionChart stats={data.stats} />
           </Panel>

@@ -10,7 +10,7 @@ export function CreateBatchForm() {
   const router = useRouter();
   const [name, setName] = useState("");
   const [totalJobs, setTotalJobs] = useState(100);
-  const [maxRetries, setMaxRetries] = useState(3);
+  const [maxRetries, setMaxRetries] = useState(2);
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -76,7 +76,7 @@ export function CreateBatchForm() {
               <input
                 type="number"
                 min={0}
-                max={5}
+                max={3}
                 className="mt-2 w-full rounded-2xl border border-border bg-canvas px-4 py-3 text-ink outline-none transition focus:border-brand-400"
                 value={maxRetries}
                 onChange={(event) => setMaxRetries(Number(event.target.value))}
@@ -97,11 +97,11 @@ export function CreateBatchForm() {
         </section>
 
         <section className="rounded-[28px] border border-border/80 bg-surfaceMuted/70 p-6 shadow-panel">
-          <h3 className="text-lg font-semibold text-ink">Phase 1 rules</h3>
+          <h3 className="text-lg font-semibold text-ink">Rules</h3>
           <ul className="mt-4 space-y-3 text-sm text-inkSoft">
             <li>Batch names are required and trimmed.</li>
             <li>Total jobs are capped at 500 for demo safety.</li>
-            <li>Retries are capped at 5 with exponential backoff.</li>
+            <li>Retries are capped at 3 with exponential backoff.</li>
             <li>Ownership is attached automatically via browser `clientId`.</li>
           </ul>
         </section>

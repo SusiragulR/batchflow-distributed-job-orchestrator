@@ -131,9 +131,9 @@ export function StatusOverTimeChart({
           content={<ChartTooltipContent indicator="line" />}
         />
         <ChartLegend content={<ChartLegendContent />} />
-        <Bar dataKey="success" fill="var(--color-success)" radius={[8, 8, 0, 0]} />
-        <Bar dataKey="failed" fill="var(--color-failed)" radius={[8, 8, 0, 0]} />
-        <Bar dataKey="processing" fill="var(--color-processing)" radius={[8, 8, 0, 0]} />
+        <Bar dataKey="success" fill="var(--color-success)" radius={[8, 8, 0, 0]} maxBarSize={40} />
+        <Bar dataKey="failed" fill="var(--color-failed)" radius={[8, 8, 0, 0]} maxBarSize={40} />
+        <Bar dataKey="processing" fill="var(--color-processing)" radius={[8, 8, 0, 0]} maxBarSize={40} />
       </ReBarChart>
     </ChartContainer>
   );

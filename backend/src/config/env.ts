@@ -27,7 +27,7 @@ export const env = {
   databaseUrl: process.env.DATABASE_URL ?? "",
   redisUrl: process.env.REDIS_URL ?? "",
   workerConcurrency: toNumber(process.env.WORKER_CONCURRENCY, 2),
-  failureRate: toNumber(process.env.FAILURE_RATE, 0.3),
+  failureRate: toNumber(process.env.FAILURE_RATE, 0.4),
   retryBaseDelayMs: toNumber(process.env.RETRY_BASE_DELAY_MS, 2000),
   queueName: process.env.QUEUE_NAME ?? "batchflow:jobs:ready",
   retryQueueName: process.env.RETRY_QUEUE_NAME ?? "batchflow:jobs:retry",
