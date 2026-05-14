@@ -64,7 +64,7 @@ export function BatchDashboardClient({ batchId }: { batchId: string }) {
         if (nextData.batch.status === BATCH_STATUS.RUNNING && interval === undefined) {
           interval = window.setInterval(() => {
             void load();
-          }, 2500);
+          }, 7500);
         } else if (nextData.batch.status === BATCH_STATUS.COMPLETED && interval !== undefined) {
           window.clearInterval(interval);
           interval = undefined;

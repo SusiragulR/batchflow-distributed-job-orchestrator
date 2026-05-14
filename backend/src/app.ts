@@ -1,3 +1,4 @@
+import compression from "compression";
 import cors from "cors";
 import express from "express";
 import { ZodError } from "zod";
@@ -10,6 +11,8 @@ import { clientIdMiddleware } from "./middleware/client-id.js";
 
 export const createApp = () => {
   const app = express();
+
+  app.use(compression());
 
   app.use(
     cors({
