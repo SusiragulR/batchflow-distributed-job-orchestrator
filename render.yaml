@@ -1,0 +1,31 @@
+services:
+  - type: web
+    name: batchflow-backend-free
+    runtime: node
+    rootDir: .
+    buildCommand: npm install && npm run build --workspace shared && npm run build --workspace backend
+    startCommand: node backend/dist/server.js
+    healthCheckPath: /health
+    envVars:
+      - key: FRONTEND_ORIGIN
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: REDIS_URL
+        sync: false
+      - key: WORKER_CONCURRENCY
+        value: "2"
+      - key: FAILURE_RATE
+        value: "0.3"
+      - key: RETRY_BASE_DELAY_MS
+        value: "2000"
+      - key: QUEUE_NAME
+        value: batchflow:jobs:ready
+      - key: RETRY_QUEUE_NAME
+        value: batchflow:jobs:retry
+      - key: RUN_WORKER_IN_API
+        value: "true"
+      - key: WORKER_TRIGGER_SECRET
+        sync: false
+      - key: WORKER_TRIGGER_BURST_LIMIT
+        value: "10"

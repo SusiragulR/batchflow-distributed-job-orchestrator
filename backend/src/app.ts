@@ -7,6 +7,7 @@ import { env } from "./config/env.js";
 import { HttpError } from "./lib/errors.js";
 import { healthRouter } from "./routes/health.js";
 import { apiRouter } from "./routes/index.js";
+import { workerTriggerRouter } from "./routes/worker-trigger.js";
 import { clientIdMiddleware } from "./middleware/client-id.js";
 
 export const createApp = () => {
@@ -22,6 +23,7 @@ export const createApp = () => {
   app.use(express.json());
 
   app.use("/health", healthRouter);
+  app.use("/worker-trigger", workerTriggerRouter);
   app.use("/api", clientIdMiddleware, apiRouter);
 
   app.use((error: unknown, _req: express.Request, res: express.Response, _next: express.NextFunction) => {

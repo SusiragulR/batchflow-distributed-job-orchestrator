@@ -21,6 +21,23 @@ const toNumber = (value: string | undefined, fallback: number) => {
   return Number.isNaN(parsed) ? fallback : parsed;
 };
 
+const toBoolean = (value: string | undefined, fallback: boolean) => {
+  if (!value) {
+    return fallback;
+  }
+
+  const normalized = value.trim().toLowerCase();
+  if (["true", "1", "yes", "on"].includes(normalized)) {
+    return true;
+  }
+
+  if (["false", "0", "no", "off"].includes(normalized)) {
+    return false;
+  }
+
+  return fallback;
+};
+
 export const env = {
   port: toNumber(process.env.PORT, 4000),
   frontendOrigin: process.env.FRONTEND_ORIGIN ?? "http://localhost:3000",
@@ -31,4 +48,7 @@ export const env = {
   retryBaseDelayMs: toNumber(process.env.RETRY_BASE_DELAY_MS, 2000),
   queueName: process.env.QUEUE_NAME ?? "batchflow:jobs:ready",
   retryQueueName: process.env.RETRY_QUEUE_NAME ?? "batchflow:jobs:retry",
+  runWorkerInApi: toBoolean(process.env.RUN_WORKER_IN_API, false),
+  workerTriggerSecret: process.env.WORKER_TRIGGER_SECRET ?? "",
+  workerTriggerBurstLimit: toNumber(process.env.WORKER_TRIGGER_BURST_LIMIT, 10),
 } as const;
